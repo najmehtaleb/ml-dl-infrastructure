@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ml-dl-infrastructure"
+  site-url: "https://najmehtaleb.github.io/ml-dl-infrastructure"
+  description: "Machine Learning and Deep Learning Infrastructure"
+  repo-branch: main
+  repo-url: "https://github.com/najmehtaleb/ml-dl-infrastructure"
