@@ -5,19 +5,3 @@ ml-dl-infrastructure
 
 This file will become your README and also the index of your
 documentation.
-
-## Install
-
-``` sh
-pip install ml_dl_infrastructure
-```
-
-## How to use
-
-Fill me in please! Don’t forget code examples:
-
-``` python
-1+1
-```
-
-    2
